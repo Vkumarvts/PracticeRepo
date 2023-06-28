@@ -38,5 +38,7 @@ public class LoginPage {
 	public void ClickLogOutBTN()
 	{
 		LogOut.click();
+// changes has beeen done
 	}
+
 }
