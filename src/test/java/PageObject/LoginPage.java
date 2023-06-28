@@ -25,7 +25,7 @@ public class LoginPage {
 	{
 		Username.sendKeys("email");
 	}
-	
+	// changes made on repository please check
 	public void EnterPassword(String Pass)
 	{
 		Username.sendKeys("Pass");
